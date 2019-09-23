@@ -16,7 +16,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://flywaydb.org/assets/logo/flyway-logo-tm-sm.png</iconUrl>
     <authors>Flyway Team</authors>
-    <owners>Roemer</owners>
+    <owners>belidzs</owners>
     <tags>flyway database migration cli</tags>
     <packageSourceUrl>https://github.com/belidzs/chocolatey-flyway</packageSourceUrl>
     <releaseNotes>https://flywaydb.org/documentation/releaseNotes</releaseNotes>
