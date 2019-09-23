@@ -2,7 +2,7 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>flyway.commandline</id>
+    <id>flyway</id>
     <version>6.0.4</version>
     <title>Flyway</title>
     <summary>Flyway is database-independent library for tracking, managing and applying database changes</summary>
@@ -18,7 +18,7 @@
     <authors>Flyway Team</authors>
     <owners>Roemer</owners>
     <tags>flyway database migration cli</tags>
-    <packageSourceUrl>https://github.com/Roemer/Chocolatey-Packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/belidzs/chocolatey-flyway</packageSourceUrl>
     <releaseNotes>https://flywaydb.org/documentation/releaseNotes</releaseNotes>
   </metadata>
   <files>
